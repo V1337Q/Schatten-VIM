@@ -1,12 +1,12 @@
 ## Schatten-Vim
 
-#A simple dark Colorscheme for VIM based on base46's Default-Dark.
+# A simple dark Colorscheme for VIM based on base46's Default-Dark.
 
 
-##Installation
+## Installation
 
 
-#Vim-Plug
+# Vim-Plug
 
 On your ~/.vimrc
 
